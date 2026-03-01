@@ -1,7 +1,9 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=260&color=0:1f4037,100:99f2c8&text=Kishore%20Abinash%20A&fontSize=50&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000428,100:004e92&text=Kishore%20Abinash%20A&fontSize=55&fontColor=00c6ff&animation=fadeIn"/>
 </p>
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e7ff,100:004e92&height=3"/>
 </p>
