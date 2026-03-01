@@ -38,128 +38,89 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e7ff,100:004e92&height=3"/>
 </p>
 
+# 🚀 Tech Stack
 
-<p align="center" style="background-color:#0d1117; padding:25px; border-radius:20px;">
+<p align="center">
 
-  <!-- Java -->
-  <span style="display:inline-block; margin:15px; text-align:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="70" height="70"/><br>
-    <sub style="color:white;">Java</sub>
-  </span>
+<a href="https://www.java.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="75" height="75"/>
+</a>
 
-  <!-- Python -->
-  <span style="display:inline-block; margin:15px; text-align:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70" height="70"/><br>
-    <sub style="color:white;">Python</sub>
-  </span>
+<a href="https://www.python.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="75" height="75"/>
+</a>
 
-  <!-- JavaScript -->
-  <span style="display:inline-block; margin:15px; text-align:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="70" height="70"/><br>
-    <sub style="color:white;">JavaScript</sub>
-  </span>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="75" height="75"/>
+</a>
 
-  <!-- React -->
-  <span style="display:inline-block; margin:15px; text-align:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="70" height="70"/><br>
-    <sub style="color:white;">React</sub>
-  </span>
+<a href="https://reactjs.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="75" height="75"/>
+</a>
 
-  <!-- React Native -->
-  <span style="display:inline-block; margin:15px; text-align:center;">
-    <img src="https://reactnative.dev/img/header_logo.svg" width="70" height="70"/><br>
-    <sub style="color:white;">React Native</sub>
-  </span>
+<a href="https://reactnative.dev">
+<img src="https://reactnative.dev/img/header_logo.svg" width="75" height="75"/>
+</a>
 
-  <!-- Node.js -->
-  <span style="display:inline-block; margin:15px; text-align:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="70" height="70"/><br>
-    <sub style="color:white;">Node.js</sub>
-  </span>
+<a href="https://nodejs.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="75" height="75"/>
+</a>
 
-  <!-- Express -->
-  <span style="display:inline-block; margin:15px; text-align:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="70" height="70" style="background:white;padding:6px;border-radius:10px;"/><br>
-    <sub style="color:white;">Express</sub>
-  </span>
+<a href="https://expressjs.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="75" height="75" style="background:white;border-radius:8px;padding:4px;"/>
+</a>
 
-  <!-- MongoDB -->
-  <span style="display:inline-block; margin:15px; text-align:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="70" height="70"/><br>
-    <sub style="color:white;">MongoDB</sub>
-  </span>
+<a href="https://www.mongodb.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="75" height="75"/>
+</a>
 
-  <!-- MySQL -->
-  <span style="display:inline-block; margin:15px; text-align:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="70" height="70"/><br>
-    <sub style="color:white;">MySQL</sub>
-  </span>
+<a href="https://www.mysql.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="75" height="75"/>
+</a>
 
-  <!-- Firebase -->
-  <span style="display:inline-block; margin:15px; text-align:center;">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="70" height="70"/><br>
-    <sub style="color:white;">Firebase</sub>
-  </span>
+<a href="https://firebase.google.com">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="75" height="75"/>
+</a>
 
-  <!-- Android -->
-  <span style="display:inline-block; margin:15px; text-align:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="70" height="70"/><br>
-    <sub style="color:white;">Android</sub>
-  </span>
+<a href="https://developer.android.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="75" height="75"/>
+</a>
 
-  <!-- HTML -->
-  <span style="display:inline-block; margin:15px; text-align:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="70" height="70"/><br>
-    <sub style="color:white;">HTML</sub>
-  </span>
+<a href="https://www.w3.org/html/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="75" height="75"/>
+</a>
 
-  <!-- CSS -->
-  <span style="display:inline-block; margin:15px; text-align:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="70" height="70"/><br>
-    <sub style="color:white;">CSS</sub>
-  </span>
+<a href="https://www.w3schools.com/css/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="75" height="75"/>
+</a>
 
-  <!-- Tailwind -->
-  <span style="display:inline-block; margin:15px; text-align:center;">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="70" height="70"/><br>
-    <sub style="color:white;">Tailwind</sub>
-  </span>
+<a href="https://tailwindcss.com">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="75" height="75"/>
+</a>
 
-  <!-- Git -->
-  <span style="display:inline-block; margin:15px; text-align:center;">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="70" height="70"/><br>
-    <sub style="color:white;">Git</sub>
-  </span>
+<a href="https://git-scm.com">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="75" height="75"/>
+</a>
 
-  <!-- OpenCV -->
-  <span style="display:inline-block; margin:15px; text-align:center;">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="70" height="70"/><br>
-    <sub style="color:white;">OpenCV</sub>
-  </span>
+<a href="https://opencv.org">
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="75" height="75"/>
+</a>
 
-  <!-- TensorFlow -->
-  <span style="display:inline-block; margin:15px; text-align:center;">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="70" height="70"/><br>
-    <sub style="color:white;">TensorFlow</sub>
-  </span>
+<a href="https://www.tensorflow.org">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="75" height="75"/>
+</a>
 
-  <!-- Flask -->
-  <span style="display:inline-block; margin:15px; text-align:center;">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="70" height="70"/><br>
-    <sub style="color:white;">Flask</sub>
-  </span>
+<a href="https://flask.palletsprojects.com">
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="75" height="75"/>
+</a>
 
-  <!-- .NET -->
-  <span style="display:inline-block; margin:15px; text-align:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="70" height="70"/><br>
-    <sub style="color:white;">.NET</sub>
-  </span>
+<a href="https://dotnet.microsoft.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="75" height="75"/>
+</a>
 
-  <!-- Figma -->
-  <span style="display:inline-block; margin:15px; text-align:center;">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="70" height="70"/><br>
-    <sub style="color:white;">Figma</sub>
-  </span>
+<a href="https://www.figma.com">
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="75" height="75"/>
+</a>
 
 </p>
 # 📂 Projects
