@@ -1,187 +1,131 @@
+<!-- Animated Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Kishore%20Abinash%20A&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+</p>
 
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=800&color=00E7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Engineer;MERN+Stack+Developer;Computer+Vision+Enthusiast;Smart+India+Hackathon+Finalist" />
+</p>
+
+---
+
+# 👋 About Me
+
+🎓 **B.E. Computer Science and Engineering** — Nandha Engineering College  
+💻 **Full Stack Developer & AI/ML Engineer** focused on scalable intelligent systems  
+🏆 **Grand Finalist — Smart India Hackathon 2025**  
+🥇 **Winner — Kaaval Hackathon**  
+📜 **IEEE Conference Author** — Published research in AI surveillance  
+📄 **Patent Filed:** Edge-Based Unified AI Agent for Autonomous Surveillance  
+🧠 Built multiple **AI-powered surveillance systems** using Computer Vision  
+⚡ Experienced in **MERN Stack, AI/ML, and real-time video analytics**  
+
+---
+
+# 🚀 Tech Stack
 
 <p align="center">
-  <img width="80%" alt="Hi there, I'm Kishore Abinash A! 👋" src="./assets/TextStudio-Typewriter (2).gif" />
+<img src="https://skillicons.dev/icons?i=java,python,js,react,reactnative,nodejs,express,mongodb,mysql,firebase,android,html,css,tailwind,git,opencv,tensorflow,flask,dotnet&perline=9" />
 </p>
+
+---
+
+# 📂 Projects
+
+## 🚦 KAAPAAN — Traffic Violation Indicator
+**Tech Stack:** MERN, YOLOv8, OpenCV, WebSockets, Cloudinary  
+AI-powered real-time traffic surveillance system detecting violations such as helmet absence and unsafe riding. Generates automated alerts with evidential media using deep learning and scalable backend infrastructure.
+
+---
+
+## 🎥 SRI — AI Video Analysis System (Smart India Hackathon)
+**Tech Stack:** Python, PyTorch, FastAPI, MongoDB, OpenCV  
+AI-based surveillance intelligence platform for suspect tracking, weapon detection, and suspicious behavior analysis. Reduced manual video investigation time by ~70% using automated summarization.
+
+---
+
+## 🛕 Shree — AI Crowd Monitoring Agent
+**Tech Stack:** Python, Computer Vision, Microservices  
+Real-time AI surveillance system for monitoring crowd density and detecting abnormal activities across multiple cameras with scalable AI microservices architecture.
+
+---
+
+# 📊 LeetCode Stats
 
 <p align="center">
-  <img src="./assets/hi.gif" width="400px" height = "250px"/>
+<img src="https://leetcard.jacoblin.cool/Kishore2818?theme=dark&font=Poppins&ext=heatmap" />
 </p>
 
 ---
 
-## About Me
+# 🐍 Contribution Snake
 
-- 🎓 **Grand Finalist** at **2x Smart India Hackathon 2024 (SIH'24,25)**...
-- 💻 Skilled in both frontend and backend development. 
-- 💡 Solved over **750+ problems** on **LeetCode**.  
-- ✨ Actively participated in hackathons and coding competitions, excelling in team collaboration and innovation.  
-- 📚 Passionate about learning and applying the latest tech trends in development and AI.  
-- 📱 Enthusiastic about developing scalable and innovative solutions to real-world challenges.  
-- 🌐 Strong presence on LinkedIn with **2K+ followers**
-
----
-
-## 🔧 Tech Skills
-
-<p align="center" style="background-color:#0d1117; padding:20px; border-radius:20px;">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="70" height="70" style="border-radius:12px; margin:10px;"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="70" height="70" style="border-radius:12px; margin:10px;"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="70" height="70" style="border-radius:12px; margin:10px;"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="70" height="70" style="border-radius:12px; margin:10px;"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70" style="border-radius:12px; margin:10px;"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="70" height="70" style="border-radius:12px; margin:10px; background:white; padding:8px;"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="70" height="70" style="border-radius:12px; margin:10px;"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="70" height="70" style="border-radius:12px; margin:10px;"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="70" height="70" style="border-radius:12px; margin:10px; background:white; padding:8px;"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="70" style="border-radius:12px; margin:10px;"/>
-  </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="70" height="70" style="border-radius:12px; margin:10px;"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70" style="border-radius:12px; margin:10px;"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="70" style="border-radius:12px; margin:10px;"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70" style="border-radius:12px; margin:10px;"/>
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="70" height="70" style="border-radius:12px; margin:10px; background:white; padding:8px;"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70" style="border-radius:12px; margin:10px;"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70" style="border-radius:12px; margin:10px;"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70" style="border-radius:12px; margin:10px;"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="70" height="70" style="border-radius:12px; margin:10px; background:white; padding:8px;"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="70" height="70" style="border-radius:12px; margin:10px;"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="70" height="70" style="border-radius:12px; margin:10px; background:white; padding:8px;"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="70" height="70" style="border-radius:12px; margin:10px;"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="70" height="70" style="border-radius:12px; margin:10px;"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70" style="border-radius:12px; margin:10px;"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="70" height="70" style="border-radius:12px; margin:10px;"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70" style="border-radius:12px; margin:10px;"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="70" height="70" style="border-radius:12px; margin:10px;"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="70" height="70" style="border-radius:12px; margin:10px; background:white; padding:8px;"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="70" height="70" style="border-radius:12px; margin:10px;"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="70" height="70" style="border-radius:12px; margin:10px;"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="70" height="70" style="border-radius:12px; margin:10px;"/>
-  </a>
+<p align="center">
+<img src="https://raw.githubusercontent.com/kishore2818/kishore2818/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kishore2818&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore2818&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 📂 Projects...
+# 📉 Contribution Graph
 
-### 1. **Smart Criminal Detection**  (In Progress)
-   - **Tech Stack:** Python, MERN Stack, Cloudinary  
-   - 🚀 This project integrates AI and web technologies to enhance criminal detection efficiency.
-
-### 2. **Online Polling System** 
-   - **Tech Stack:** MERN Stack  ...
-   - 🗳️ A secure and scalable online polling platform.
-
-### 3. **Online Cinema Ticket Booking** 
-   - **Tech Stack:** HTML, CSS, JavaScript, PHP, SQL  
-   - 🎥 Seamlessly book your movie tickets online with this robust system.
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishore2818&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
 
 ---
 
-## 📊 LeetCode Stats
+# 🏆 Achievements
 
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Naveenkumar7125?theme=chartreuse&font=Sora&ext=heatmap)
-
----
-
-
-## 🐍 Contribution Snake Game
-
-![GitHub Snake Light](https://github.com/Naveenkumar7125/Naveenkumar7125/blob/output/github-contribution-grid-snake-dark.svg)
+🥇 Winner — Kaaval Hackathon  
+🏆 Grand Finalist — Smart India Hackathon 2025  
+📜 IEEE Conference — Research Paper Published  
+📄 Patent Filed — AI Surveillance System  
+💼 Full Stack Developer Intern — Mahat Labs Pvt Ltd  
 
 ---
 
-## 🔄 GitHub Stats
+# 🌐 Portfolio
 
-<img src="https://github-readme-stats.vercel.app/api?username=Naveenkumar7125&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="Naveenkumar7125's GitHub Stats" />
-
-### GitHub Contribution Activity
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Naveenkumar7125&theme=react-dark&hide_border=true&color=ffb000&line=00e7ff&point=ffb000&area=true)
-
+🚧 **Coming Soon...**
 
 ---
 
-Feel free to explore the repository and discuss solutions!
+# 📫 Connect With Me
 
-## 📫 Connect With Me
+<p align="center">
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-2K%2B%20Followers-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naveenkumar-t-683306320/)  
-- [![Email](https://img.shields.io/badge/Email-naveenkumart906%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:naveenkumart906@gmail.com)  
-- [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Naveenkumar7125/)  
+<a href="https://www.linkedin.com/in/kishore-abinash-a-962516274/">
+<img src="https://img.shields.io/badge/LinkedIn-Kishore%20Abinash-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:kishoreabinash2005@gmail.com">
+<img src="https://img.shields.io/badge/Email-kishoreabinash2005%40gmail.com-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://leetcode.com/u/Kishore2818/">
+<img src="https://img.shields.io/badge/LeetCode-Kishore2818-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+</p>
 
 ---
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenkumar7125&label=Profile%20views&color=111111&style=flat" alt="naveenkumar7125" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveenkumar7125" alt="naveenkumar7125" /></a> </p>
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenkumar7125&show_icons=true&locale=en&layout=compact" alt="naveenkumar7125" /></p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=kishore2818&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-Let's connect, collaborate, and create the future together! 😊
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
+</p>
