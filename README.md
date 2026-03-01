@@ -1,15 +1,11 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000428,50:004e92,100:00c6ff&height=300&section=header&text=Kishore%20Abinash%20A&fontSize=55&fontColor=00e7ff&animation=fadeIn&stroke=00e7ff&strokeWidth=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=260&text=Kishore%20Abinash%20A&fontAlign=50&fontAlignY=45&color=0:0f0c29,50:302b63,100:00e7ff&fontColor=00e7ff&fontSize=60&animation=blinking"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI%2FML+Engineer;Computer+Vision+Developer;Smart+India+Hackathon+Finalist;IEEE+Research+Author"/>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750337-4f7b3c4f-4e44-4f52-bb9b-9c5b0f2f1f9c.gif"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Full+Stack+Developer;Computer+Vision+Specialist;Hackathon+Winner;IEEE+Research+Author"/>
 </p>
 
 ---
@@ -117,25 +113,15 @@ Real-time AI system for crowd monitoring and abnormal behavior detection using s
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
-<p align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kishore%20Abinash-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kishore-abinash-a-962516274/)
 
-<a href="https://www.linkedin.com/in/kishore-abinash-a-962516274/">
-<img src="https://img.shields.io/badge/LinkedIn-Kishore%20Abinash-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+[![Email](https://img.shields.io/badge/Email-kishoreabinash2005%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:kishoreabinash2005@gmail.com)
 
-<a href="mailto:kishoreabinash2005@gmail.com">
-<img src="https://img.shields.io/badge/Email-kishoreabinash2005%40gmail.com-red?style=for-the-badge&logo=gmail"/>
-</a>
+[![LeetCode](https://img.shields.io/badge/LeetCode-Kishore2818-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Kishore2818/)
 
-<a href="https://leetcode.com/u/Kishore2818/">
-<img src="https://img.shields.io/badge/LeetCode-Kishore2818-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-</p>
-
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-black?style=for-the-badge&logo=vercel)](#)
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=kishore2818&label=Profile%20Views&color=00e7ff&style=flat"/>
