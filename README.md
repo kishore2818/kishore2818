@@ -1,8 +1,13 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750337-4f7b3c4f-4e44-4f52-bb9b-9c5b0f2f1f9c.gif" width="100%">
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="220"/>
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="220"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/>
 </p>
 
+<p align="center">
+  <b>Building Intelligent Systems • Computer Vision • MERN Stack • AI Surveillance</b>
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e7ff,100:004e92&height=3"/>
 </p>
