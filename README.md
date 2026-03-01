@@ -41,7 +41,91 @@
 # 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,js,react,reactnative,nodejs,express,mongodb,mysql,firebase,android,html,css,tailwind,git,opencv,tensorflow,flask,dotnet&perline=9"/>
+
+<a href="https://www.java.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="65" height="65"/>
+</a>
+
+<a href="https://www.python.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="65" height="65"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="65" height="65"/>
+</a>
+
+<a href="https://reactjs.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="65" height="65"/>
+</a>
+
+<a href="https://reactnative.dev">
+<img src="https://reactnative.dev/img/header_logo.svg" width="65" height="65"/>
+</a>
+
+<a href="https://nodejs.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="65" height="65"/>
+</a>
+
+<a href="https://expressjs.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="65" height="65" style="background:white;padding:5px;border-radius:10px;"/>
+</a>
+
+<a href="https://www.mongodb.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="65" height="65"/>
+</a>
+
+<a href="https://www.mysql.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="65" height="65"/>
+</a>
+
+<a href="https://firebase.google.com">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="65" height="65"/>
+</a>
+
+<a href="https://developer.android.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="65" height="65"/>
+</a>
+
+<a href="https://www.w3.org/html/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="65" height="65"/>
+</a>
+
+<a href="https://www.w3schools.com/css/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="65" height="65"/>
+</a>
+
+<a href="https://tailwindcss.com">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="65" height="65"/>
+</a>
+
+<a href="https://git-scm.com">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="65" height="65"/>
+</a>
+
+<a href="https://opencv.org">
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="65" height="65"/>
+</a>
+
+<a href="https://www.tensorflow.org">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="65" height="65"/>
+</a>
+
+<a href="https://flask.palletsprojects.com">
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="65" height="65"/>
+</a>
+
+<a href="https://dotnet.microsoft.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="65" height="65"/>
+</a>
+
+<a href="https://www.figma.com">
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="65" height="65"/>
+</a>
+
+<a href="https://www.canva.com">
+<img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="65" height="65"/>
+</a>
+
 </p>
 
 <p align="center">
@@ -51,23 +135,23 @@
 # 📂 Projects
 
 ## 🚦 KAAPAAN — Traffic Violation Indicator
-AI-powered real-time traffic monitoring system detecting helmet absence and unsafe riding using YOLOv8 and MERN stack. Generates automated alerts with evidential media.
+AI-powered real-time traffic monitoring system detecting violations using YOLOv8 and MERN stack with automated alert generation.
 
 **Tech:** MERN, Python, OpenCV, YOLOv8, Cloudinary
 
 ---
 
 ## 🎥 SRI — AI Video Intelligence System
-AI surveillance platform for suspect tracking, weapon detection, and suspicious activity analysis. Reduced investigation time by ~70%.
+AI surveillance system for suspect tracking, weapon detection, and intelligent video summarization reducing investigation time.
 
 **Tech:** Python, PyTorch, FastAPI, MongoDB, OpenCV
 
 ---
 
 ## 🛕 Shree — AI Crowd Monitoring Agent
-Real-time AI system for crowd monitoring and abnormal behavior detection using scalable AI microservices.
+AI-based real-time crowd monitoring and anomaly detection system using scalable microservices architecture.
 
-**Tech:** Python, Computer Vision, Microservices
+**Tech:** Python, Computer Vision
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e7ff,100:004e92&height=3"/>
@@ -76,15 +160,12 @@ Real-time AI system for crowd monitoring and abnormal behavior detection using s
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kishore2818&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=kishore2818&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore2818&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e7ff,100:004e92&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e7ff,100:004e92&height=3"/>
 </p>
 
 # 🔥 GitHub Streak
@@ -94,17 +175,7 @@ Real-time AI system for crowd monitoring and abnormal behavior detection using s
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e7ff,100:004e92&height=3"/>
-</p>
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishore2818&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e7ff,100:004e92&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e7ff,100:004e92&height=3"/>
 </p>
 
 # 🐍 Contribution Snake
@@ -114,40 +185,10 @@ Real-time AI system for crowd monitoring and abnormal behavior detection using s
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e7ff,100:004e92&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e7ff,100:004e92&height=3"/>
 </p>
 
-# 🏆 Achievements
-
-🥇 Winner — Kaaval Hackathon  
-🏆 Grand Finalist — Smart India Hackathon  
-📜 IEEE Conference — Research Paper Published  
-📄 Patent Filed — AI Surveillance System  
-💼 Full Stack Developer Intern — Mahat Labs Pvt Ltd  
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e7ff,100:004e92&height=3"/>
-</p>
-
-# 💻 LeetCode Stats
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/Kishore2818?theme=dark&font=Orbitron&ext=heatmap"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e7ff,100:004e92&height=3"/>
-</p>
-
-# 🌐 Portfolio
-
-🚧 Portfolio Website — Coming Soon...
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e7ff,100:004e92&height=3"/>
-</p>
-
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kishore%20Abinash-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kishore-abinash-a-962516274/)
 
@@ -158,9 +199,9 @@ Real-time AI system for crowd monitoring and abnormal behavior detection using s
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-black?style=for-the-badge&logo=vercel)](#)
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=kishore2818&label=Profile%20Views&color=00e7ff&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=kishore2818&label=Profile%20Views&color=00e7ff"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:00c6ff&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:00c6ff&height=120&section=footer"/>
 </p>
