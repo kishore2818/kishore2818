@@ -1,15 +1,7 @@
 <!-- ================= HEADER ================= -->
-## ⚡ Live Developer Metrics
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kishore2818&theme=tokyonight"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750337-4f7b3c4f-4e44-4f52-bb9b-9c5b0f2f1f9c.gif" width="100%">
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kishore2818&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kishore2818&theme=tokyonight"/>
-</p>
-
 ---
 
 # 👨‍💻 About Me
