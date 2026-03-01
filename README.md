@@ -1,32 +1,35 @@
-<!-- Animated Header Banner -->
+<!-- ================= HEADER ================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Kishore%20Abinash%20A&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000428,50:004e92,100:00c6ff&height=300&section=header&text=Kishore%20Abinash%20A&fontSize=55&fontColor=00e7ff&animation=fadeIn&stroke=00e7ff&strokeWidth=2"/>
 </p>
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=800&color=00E7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Engineer;MERN+Stack+Developer;Computer+Vision+Enthusiast;Smart+India+Hackathon+Finalist" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI%2FML+Engineer;Computer+Vision+Developer;Smart+India+Hackathon+Finalist;IEEE+Research+Author"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750337-4f7b3c4f-4e44-4f52-bb9b-9c5b0f2f1f9c.gif"/>
 </p>
 
 ---
 
-# 👋 About Me
+# 👨‍💻 About Me
 
-🎓 **B.E. Computer Science and Engineering** — Nandha Engineering College  
-💻 **Full Stack Developer & AI/ML Engineer** focused on scalable intelligent systems  
-🏆 **Grand Finalist — Smart India Hackathon 2025**  
-🥇 **Winner — Kaaval Hackathon**  
-📜 **IEEE Conference Author** — Published research in AI surveillance  
-📄 **Patent Filed:** Edge-Based Unified AI Agent for Autonomous Surveillance  
-🧠 Built multiple **AI-powered surveillance systems** using Computer Vision  
-⚡ Experienced in **MERN Stack, AI/ML, and real-time video analytics**  
+🎓 B.E. Computer Science and Engineering — Nandha Engineering College  
+🤖 Full Stack Developer & AI/ML Engineer  
+🏆 Smart India Hackathon 2025 Grand Finalist  
+🥇 Winner — Kaaval Hackathon  
+📜 IEEE Conference Research Author  
+📄 Patent Filed — Edge-Based AI Surveillance System  
+⚡ Building scalable AI-powered surveillance and intelligent systems  
 
 ---
 
 # 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,js,react,reactnative,nodejs,express,mongodb,mysql,firebase,android,html,css,tailwind,git,opencv,tensorflow,flask,dotnet&perline=9" />
+<img src="https://skillicons.dev/icons?i=java,python,js,react,reactnative,nodejs,express,mongodb,mysql,firebase,android,html,css,tailwind,git,opencv,tensorflow,flask,dotnet&perline=9"/>
 </p>
 
 ---
@@ -34,49 +37,47 @@
 # 📂 Projects
 
 ## 🚦 KAAPAAN — Traffic Violation Indicator
-**Tech Stack:** MERN, YOLOv8, OpenCV, WebSockets, Cloudinary  
-AI-powered real-time traffic surveillance system detecting violations such as helmet absence and unsafe riding. Generates automated alerts with evidential media using deep learning and scalable backend infrastructure.
+AI-powered real-time traffic monitoring system detecting helmet absence and unsafe riding using YOLOv8 and MERN stack. Generates automated alerts with evidential media.
+
+**Tech:** MERN, Python, OpenCV, YOLOv8, Cloudinary
 
 ---
 
-## 🎥 SRI — AI Video Analysis System (Smart India Hackathon)
-**Tech Stack:** Python, PyTorch, FastAPI, MongoDB, OpenCV  
-AI-based surveillance intelligence platform for suspect tracking, weapon detection, and suspicious behavior analysis. Reduced manual video investigation time by ~70% using automated summarization.
+## 🎥 SRI — AI Video Intelligence System
+AI surveillance platform for suspect tracking, weapon detection, and suspicious activity analysis. Reduced investigation time by ~70%.
+
+**Tech:** Python, PyTorch, FastAPI, MongoDB, OpenCV
 
 ---
 
 ## 🛕 Shree — AI Crowd Monitoring Agent
-**Tech Stack:** Python, Computer Vision, Microservices  
-Real-time AI surveillance system for monitoring crowd density and detecting abnormal activities across multiple cameras with scalable AI microservices architecture.
+Real-time AI system for crowd monitoring and abnormal behavior detection using scalable AI microservices.
+
+**Tech:** Python, Computer Vision, Microservices
 
 ---
 
-# 📊 LeetCode Stats
+# 📊 GitHub Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/Kishore2818?theme=dark&font=Poppins&ext=heatmap" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=kishore2818&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore2818&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/kishore2818/kishore2818/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://streak-stats.demolab.com?user=kishore2818&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kishore2818&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore2818&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📉 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kishore2818&theme=tokyo-night&hide_border=true&area=true"/>
@@ -84,19 +85,35 @@ Real-time AI surveillance system for monitoring crowd density and detecting abno
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/kishore2818/kishore2818/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
 # 🏆 Achievements
 
 🥇 Winner — Kaaval Hackathon  
-🏆 Grand Finalist — Smart India Hackathon 2025  
+🏆 Grand Finalist — Smart India Hackathon  
 📜 IEEE Conference — Research Paper Published  
 📄 Patent Filed — AI Surveillance System  
 💼 Full Stack Developer Intern — Mahat Labs Pvt Ltd  
 
 ---
 
+# 💻 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Kishore2818?theme=dark&font=Orbitron&ext=heatmap"/>
+</p>
+
+---
+
 # 🌐 Portfolio
 
-🚧 **Coming Soon...**
+🚧 Portfolio Website — Coming Soon...
 
 ---
 
@@ -121,11 +138,11 @@ Real-time AI surveillance system for monitoring crowd density and detecting abno
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=kishore2818&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=kishore2818&label=Profile%20Views&color=00e7ff&style=flat"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:00c6ff&height=120&section=footer"/>
 </p>
