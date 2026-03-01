@@ -1,13 +1,8 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="220"/>
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="220"/>
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,50:0f2027,100:00e7ff&text=Kishore%20Abinash%20A&fontSize=55&fontColor=00e7ff&animation=fadeIn&fontAlignY=40"/>
 </p>
 
-<p align="center">
-  <b>Building Intelligent Systems • Computer Vision • MERN Stack • AI Surveillance</b>
-</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e7ff,100:004e92&height=3"/>
 </p>
