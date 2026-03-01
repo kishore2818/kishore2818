@@ -2,6 +2,10 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750337-4f7b3c4f-4e44-4f52-bb9b-9c5b0f2f1f9c.gif" width="100%">
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e7ff,100:004e92&height=3"/>
+</p>
 ---
 
 # 👨‍💻 About Me
