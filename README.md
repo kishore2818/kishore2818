@@ -1,13 +1,13 @@
 <!-- ================= HEADER ================= -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=260&text=Kishore%20Abinash%20A&fontAlign=50&fontAlignY=45&color=0:0f0c29,50:302b63,100:00e7ff&fontColor=00e7ff&fontSize=60&animation=blinking"/>
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="220"/>
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="220"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Full+Stack+Developer;Computer+Vision+Specialist;Hackathon+Winner;IEEE+Research+Author"/>
+  <b>Building Intelligent Systems • Computer Vision • MERN Stack • AI Surveillance</b>
 </p>
-
 ---
 
 # 👨‍💻 About Me
