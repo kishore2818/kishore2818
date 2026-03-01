@@ -1,13 +1,15 @@
 <!-- ================= HEADER ================= -->
+## ⚡ Live Developer Metrics
+
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="220"/>
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="220"/>
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kishore2818&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <b>Building Intelligent Systems • Computer Vision • MERN Stack • AI Surveillance</b>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kishore2818&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kishore2818&theme=tokyonight"/>
 </p>
+
 ---
 
 # 👨‍💻 About Me
