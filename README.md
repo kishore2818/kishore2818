@@ -187,7 +187,7 @@ AI-based real-time crowd monitoring and anomaly detection system using scalable 
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Kishore2818-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Kishore2818/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-black?style=for-the-badge&logo=vercel)](https://kishore-abinash-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Kishore%20Abinash-black?style=for-the-badge&logo=vercel)](https://kishore-abinash-portfolio.vercel.app/)
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=kishore2818&label=Profile%20Views&color=00e7ff"/>
