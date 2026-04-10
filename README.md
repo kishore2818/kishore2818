@@ -28,7 +28,7 @@
 
 🎓 B.E. Computer Science and Engineering — Nandha Engineering College  
 🤖 Full Stack Developer & AI/ML Engineer  
-🏆 Smart India Hackathon 2025 Grand Finalist  
+🏆 SIH & PALS - Grand Finalist  
 🥇 Winner — Kaaval Hackathon  
 📜 IEEE Conference Research Author  
 📄 Patent Filed — Edge-Based AI Surveillance System  
