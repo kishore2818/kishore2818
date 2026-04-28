@@ -1,33 +1,6 @@
-<!-- ================= AI BRAIN ANIMATION ================= -->
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="220"/>
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="220"/>
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/>
-</p>
-
-<p align="center">
-  <b>Building Intelligent Systems • Computer Vision • MERN Stack • AI Surveillance</b>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e7ff,100:004e92&height=3"/>
-</p>
-
-<!-- ================= HEADER ================= -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000428,100:004e92&text=Kishore%20Abinash%20A&fontSize=55&fontColor=00c6ff&animation=fadeIn"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e7ff,100:004e92&height=3"/>
-</p>
-
-# 👨‍💻 About Me
-
 🎓 B.E. Computer Science and Engineering — Nandha Engineering College  
 🤖 Full Stack Developer & AI/ML Engineer  
+🏆 Smart India Hackathon 2025 Grand Finalist  
 🏆 SIH & PALS - Grand Finalist  
 🥇 Winner — Kaaval Hackathon  
 📜 IEEE Conference Research Author  
@@ -35,117 +8,98 @@
 ⚡ Building scalable AI-powered surveillance and intelligent systems  
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e7ff,100:004e92&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e7ff,100:004e92&height=3"/>
 </p>
 
 # 🚀 Tech Stack
 
+<!-- Random / scattered animated-style layout -->
 <p align="center">
-
-<a href="https://www.java.com">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="75" height="75"/>
-</a>
-
-<a href="https://www.python.org">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="75" height="75"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="75" height="75"/>
-</a>
-
-<a href="https://reactjs.org">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="75" height="75"/>
-</a>
-
-<a href="https://reactnative.dev">
-<img src="https://reactnative.dev/img/header_logo.svg" width="75" height="75"/>
-</a>
-
-<a href="https://nodejs.org">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="75" height="75"/>
-</a>
-
-<a href="https://expressjs.com">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="75" height="75" style="background:white;border-radius:8px;padding:4px;"/>
-</a>
-
-<a href="https://www.mongodb.com">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="75" height="75"/>
-</a>
-
-<a href="https://www.mysql.com">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="75" height="75"/>
-</a>
-
-<a href="https://firebase.google.com">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="75" height="75"/>
-</a>
-
-<a href="https://developer.android.com">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="75" height="75"/>
-</a>
-
-<a href="https://www.w3.org/html/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="75" height="75"/>
-</a>
-
-<a href="https://www.w3schools.com/css/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="75" height="75"/>
-</a>
-
-<a href="https://tailwindcss.com">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="75" height="75"/>
-</a>
-
-<a href="https://git-scm.com">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="75" height="75"/>
-</a>
-
-<a href="https://opencv.org">
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="75" height="75"/>
-</a>
-
-<a href="https://www.tensorflow.org">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="75" height="75"/>
-</a>
-
-<a href="https://flask.palletsprojects.com">
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="75" height="75"/>
-</a>
-
-<a href="https://dotnet.microsoft.com">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="75" height="75"/>
-</a>
-
-<a href="https://www.figma.com">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="75" height="75"/>
-</a>
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="80" height="80"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="65" height="65"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="85" height="85"/>
 </p>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="75" height="75"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://reactnative.dev/img/header_logo.svg" width="60" height="60"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="80" height="80"/>
+</p>
+
+<p align="right">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="70" height="70" style="background:white;border-radius:8px;padding:4px;"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="80" height="80"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="70" height="70"/>
+</p>
+
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="65" height="65"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="75" height="75"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="80" height="80"/>
+</p>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="70" height="70"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="75" height="75"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="80" height="80"/>
+</p>
+
+<p align="right">
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="75" height="75"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="75" height="75"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="70" height="70"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="70" height="70"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="75" height="75"/>
+</p>
+
+<!-- Animated Typing Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=800&color=00E7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;AI%2FML+Engineer;Computer+Vision+Builder;MERN+Stack+Specialist;Smart+India+Hackathon+Finalist"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e7ff,100:004e92&height=3"/>
+</p>
+
 # 📂 Projects
 
 ## 🚦 KAAPAAN — Traffic Violation Indicator
-AI-powered real-time traffic monitoring system detecting violations using YOLOv8 and MERN stack with automated alert generation.
+AI-powered real-time traffic monitoring system detecting violations using YOLOv8 and MERN stack with automated alert generation.  
 
 **Tech:** MERN, Python, OpenCV, YOLOv8, Cloudinary
 
 ---
 
 ## 🎥 SRI — AI Video Intelligence System
-AI surveillance system for suspect tracking, weapon detection, and intelligent video summarization reducing investigation time.
+AI surveillance system for suspect tracking, weapon detection, and intelligent video summarization reducing investigation time.  
 
 **Tech:** Python, PyTorch, FastAPI, MongoDB, OpenCV
 
 ---
 
 ## 🛕 Shree — AI Crowd Monitoring Agent
-AI-based real-time crowd monitoring and anomaly detection system using scalable microservices architecture.
+AI-based real-time crowd monitoring and anomaly detection system using scalable microservices architecture.  
 
 **Tech:** Python, Computer Vision
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e7ff,100:004e92&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e7ff,100:004e92&height=3"/>
 </p>
 
 # 📊 GitHub Stats
