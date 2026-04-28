@@ -39,59 +39,60 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e7ff,100:004e92&height=3"/>
 </p>
 
-# 🚀 Tech Stack
 
-<!-- Row 1 -->
-<!-- <p align="center"> -->
-<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="75" height="75"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="75" height="75"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="75" height="75"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://reactjs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="75" height="75"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://reactnative.dev"><img src="https://reactnative.dev/img/header_logo.svg" width="75" height="75"/></a>
-</p>
+# 🚀 Tech Arsenal  
 
-<!-- Row 2 -->
-<!-- <p align="center"> -->
-<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="75" height="75"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="75" height="75" style="background:white;border-radius:8px;padding:4px;"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.mongodb.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="75" height="75"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.mysql.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="75" height="75"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://firebase.google.com"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="75" height="75"/></a>
-</p>
+<div align="center">
 
-<!-- Row 3 -->
+## 💻 Core Languages  
+<a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" height="65"/></a>
+<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" height="65"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="65"/></a>
+<a href="https://dotnet.microsoft.com"><img src="https://skillicons.dev/icons?i=dotnet" height="65"/></a>
+
+---
+
+## 🌐 Frontend Universe  
+<a href="https://reactjs.org"><img src="https://skillicons.dev/icons?i=react" height="65"/></a>
+<a href="https://reactnative.dev"><img src="https://skillicons.dev/icons?i=react" height="65"/></a>
+<a href="https://www.w3.org/html/"><img src="https://skillicons.dev/icons?i=html" height="65"/></a>
+<a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" height="65"/></a>
+<a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" height="65"/></a>
+
+---
+
+## ⚙️ Backend & Mobile  
+<a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" height="65"/></a>
+<a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express" height="65"/></a>
+<a href="https://flask.palletsprojects.com"><img src="https://skillicons.dev/icons?i=flask" height="65"/></a>
+<a href="https://developer.android.com"><img src="https://skillicons.dev/icons?i=androidstudio" height="65"/></a>
+
+---
+
+## 🗄️ Databases & Cloud  
+<a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" height="65"/></a>
+<a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" height="65"/></a>
+<a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase" height="65"/></a>
+
+---
+
+## 🤖 AI / ML / Vision  
+<a href="https://opencv.org"><img src="https://go-skill-icons.vercel.app/api/icons?i=opencv" height="65"/></a>
+<a href="https://www.tensorflow.org"><img src="https://skillicons.dev/icons?i=tensorflow" height="65"/></a>
+
+---
+
+## 🛠️ Tools & Design  
+<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" height="65"/></a>
+<a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma" height="65"/></a>
+
+</div>
+
 <p align="center">
-<a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="75" height="75"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="75" height="75"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="75" height="75"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://tailwindcss.com"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="75" height="75"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://git-scm.com"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="75" height="75"/></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2500&pause=700&color=00E7FF&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Systems;Full+Stack+MERN+Developer;Computer+Vision+Engineer;Hackathon+Champion;Innovation+Driven+Developer"/>
 </p>
 
-<!-- Row 4 -->
-<p align="center">
-<a href="https://opencv.org"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="75" height="75"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="75" height="75"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://flask.palletsprojects.com"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="75" height="75"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://dotnet.microsoft.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="75" height="75"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.figma.com"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="75" height="75"/></a>
-</p>
+
 
 # 📂 Projects
 
