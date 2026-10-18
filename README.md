@@ -56,21 +56,10 @@
 # 🚀 Tech Stack
 
 <div align="center">
-
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express&theme=dark" alt="Programming and backend technologies"/>
-
-  <br>
-
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,mongodb,mysql&theme=dark" alt="Frontend and database technologies"/>
-
-  <br>
-
-  <img src="https://skillicons.dev/icons?i=firebase,androidstudio,flask,tensorflow,git,figma&theme=dark" alt="AI and development tools"/>
-
-  <br>
-
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=opencv&theme=dark" height="48" alt="OpenCV"/>
-
+<img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express&theme=dark" alt="Programming and backend technologies"/><br>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,mongodb,mysql&theme=dark" alt="Frontend and database technologies"/><br>
+<img src="https://skillicons.dev/icons?i=firebase,androidstudio,flask,tensorflow,git,figma&theme=dark" alt="AI and development tools"/><br>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=opencv&theme=dark" height="48" alt="OpenCV"/>
 </div>
 
 <p align="center">
